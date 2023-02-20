@@ -45,3 +45,5 @@ fn main() {
     file.write_all(j.as_bytes()).expect("write failed");
     println!("data written to file");
 }
+
+fn create_dependencies(javascript: String) {}
