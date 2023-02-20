@@ -166,6 +166,8 @@ dependencies = [
  "colored",
  "dialoguer",
  "npm-package-json",
+ "serde",
+ "serde_json",
 ]
 
 [[package]]
